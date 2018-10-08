@@ -1,4 +1,6 @@
-# react-static-plugin-sass
+# THIS PLUGIN HAS BEEN MOVED TO THE [REACT-STATIC MONOREPO](https://github.com/nozzle/react-static) AND IS ACTIVELY MAINTAINED THERE
+
+## react-static-plugin-sass
 
 A [React-Static](https://react-static.js.org) plugin that adds loader and SSR support for [sass](https://github.com/developit/sass)
 
